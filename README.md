@@ -2,6 +2,13 @@
 
 This document provides an overview of custom keybindings configured in Visual Studio Code (VS Code) to emulate the keybindings of Sublime Text 3. These keybindings enhance productivity by aligning VS Code's shortcuts with those familiar to Sublime Text 3 users.
 
+### Go to Settings ###
+Open the Command Palette:
+
+On Windows and Linux, press Ctrl + Shift + P.
+On macOS, press Cmd + Shift + P.
+Search for "Preferences: Open Keyboard Shortcuts" and select it.
+
 ### Keybindings Overview
 
 Below is a list of custom keybindings:
